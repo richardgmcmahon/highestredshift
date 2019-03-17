@@ -1,9 +1,13 @@
 #
 # Highest redshift galaxy compilation
+# [only uses Galaxies with spectroscopic redshifts]
+#
+# I mantain a separate private list ofinglorious redshifts
 #
 # TODO
-# check out the chapter in the Sandage chapter about Redshift for
-# earlier stuff
+# check out the Chapter 19 by Sandage Redshift chapter in Volume IX of Stars and
+# Stellar Systems: Galaxies and the Universe # about Redshift for early history
+#
 # Also need to auto create a latex or html version of the table 
 #
 # References are in quotes to allow for "," in csv format file
@@ -11,9 +15,10 @@
 # 20050901: first created Richard McMahon
 # 20060415: added the Kodeira reference 
 #
-# 20170101: checked against Stark ARAA
-# 20180823: added in some z>7 SpZ that are not highest reshifts known
-#           but hashed out
+# 20170101: checked against Stark, 2016, ARAA.
+#          http://adsabs.harvard.edu/abs/2016ARA&A..54..761S
+# 20180823: added in some hashed out z>7 SpZ that are not highest reshifts known
+
 #
 Year, Redshift, Technique, Name, Reference
 1956,   0.200, O, CL 0855+0321, Humason+1956AJ.....61...97H
