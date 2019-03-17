@@ -3,27 +3,27 @@
 #       1969ARA&A...7..527S, Schmidt review
 # 
 Year, Redshift, Technique, Name, Reference
-1963.0, 0.16,R, 3C273, "Schmidt 1963; Hazard et al"
+1963.0, 0.16,R, 3C273, "Schmidt, 1963;, Nature Hazard, et al, Nature"
 1963.5, 0.37,R,3C48, ""
 1964.0, 0.545,R,3C147, ""
-1965.0, 2.012,R, 3C 9, "Schmidt_1965ApJ...141.1295S"
-1967,2.223,R, PKS 0237-23, Arp.Bolton.Kinman.1967
-1968,2.358,R, 4C 25.5, Schmidt; Olsen
-1968,2.38,R, Burbidge
-1970,2.877,R, Lynds; Wills
-1973,3.41,R, OH471, Carswell; Strittmatter
-1973,3.53,R, OQ172, Wampler; Robinson; Baldwin; Burbidge; Nature
-1982,3.78,R, PKS2000-330
-1986,3.803,O, Hazard; McMahon; Sargent
-1987,4.01,O, Warren etal,
-1988.0,4.10,O, Hazard; McMahon+1988
-1988.5,4.43,O, Warren_etal_1988
-1989,4.73,O, Schneider_Schmidt_Gunn
-1991,4.897,O, CCD+NB PC, SSG
-1999,5.00, O;MC,     SDSS     ,  Fan_eta;
-2000,5.80, O;MC,     SDSS J1044, Fan_etal
-2001,6.28, O;MC,     SDSS J1030, Fan_etal
-2003,6.43, O;MC,     SDSS J1148, Fan_etal
+1965.0, 2.012,R, 3C 9, "Schmidt, 1965ApJ...141.1295S"
+1967, 2.223,R, PKS 0237-23, "Arp, Bolton, Kinman, 1967"
+1968, 2.358,R, 4C 25.5, Schmidt; Olsen
+1968, 2.38,R, Burbidge
+1970, 2.877,R, Lynds; Wills
+1973, 3.41,R, OH471, Carswell; Strittmatter
+1973, 3.53,R, OQ172, Wampler; Robinson; Baldwin; Burbidge; Nature
+1982, 3.78,R, PKS2000-330
+1986, 3.803,O, "Hazard, McMahon, Sargent, 1986"
+1987, 4.01,O, Warren etal,
+1988.0, 4.10,O, Hazard; McMahon+1988
+1988. 5,4.43,O, Warren_etal_1988
+1989, 4.73, O, Schneider_Schmidt_Gunn
+1991, 4.897, O, CCD+NB PC, SSG
+1999, 5.00, O;MC,     SDSS J0338+0021, "Fan+1999AJ....118....1F"
+2000, 5.80, O;MC,     SDSS J1044, Fan_etal
+2001, 6.28, O;MC,     SDSS J1030, Fan_etal
+2003, 6.43, O;MC,     SDSS J1148, Fan_etal
 #
 #
 # radio selected
