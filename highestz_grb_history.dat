@@ -25,5 +25,7 @@ Year, Redshift, Name, Reference, BibCode, Notes
 2008.7, 6.733, GRB 080913, "Greiner+2009"
 # 2018, 7.8, GRB GRB 120923A, "Tanvir et al, 2018", "2018ApJ...865..107T"
 # 2018, 7.9, GRB 100905A, "Bolmer et al, 2018"
-2009.4, 8.23, GRB 090423, "Salvaterra+2009; Tanvir+2009"
+2009.4, 8.23, GRB 090423, "Salvaterra et al, 2009Natur.461.1258S; Tanvir et al., 2009Natur.461.1254T"
+
+
 #PhotoZ: 2011, 9.4, GRB 090429B, "Cucchiara et al, 2011", 2011ApJ...736....7C"; "although this result could be as low as z=7 if there is significant dust obscuration in the host"
