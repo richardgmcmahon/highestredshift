@@ -50,7 +50,7 @@ optional arguments:
 WARNING: Not all options may be supported
 ```
 
-```
+
 examples
 
 python plot_history.py 
@@ -62,12 +62,12 @@ Epoch 1999 corresponding to launch of Chandra, XMM-Newton
 python plot_history.py --any --markersize 10.0 --radio --class --year_max 1999 --year_xmax 2020 --redshift_ymax 10.0
 
 python plot_history.py --any --markersize 10.0 --radio --class --year_max 2020 --year_xmax 2020 --redshift_ymax 10.0
-```
 
 
 
-```
+
+
 Epoch 2005 which is when I first made a compilation and my plots used IDL
 
 python plot_history.py --any --markersize 10.0 --radio --class --year_max 2005 --year_xmax 2010 --redshift_ymax 8.0
-```
+
