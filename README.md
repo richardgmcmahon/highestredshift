@@ -1,16 +1,16 @@
 Current spectroscopically confirmed 'record' holders:
-
+```
 Galaxy: z=9.110, MACS1149-JD1, Hashimoto et al, 2018Natur.557..392H
 Quasar: z=7.51, ULASJ1342+0928, Banados et al, 2018Natur.553..473B
 Gamma Ray Burst (GRB): z=8.23, GRB 090423, Salvaterra et al, 2009Natur.461.1258S; Tanvir et al., 2009Natur.461.1254T"
-
+```
 
 The highest redshifts at the end of 1999 were:
-
+```
 Galaxy: z=5.74; Hu, McMahon, Cowie, 1999ApJ...522L…9H 
 Quasar: z=5.00; Fan et al, 1999AJ....118….1F
 GRB: z=3.40; Kulkarni et al, 1998Natur.393…35K
-
+```
 
 
 
@@ -19,7 +19,7 @@ Producing redshift history plots for different epochs
 Your can select the historical year and the year range to plot
 on the x-axis separately.
 
-
+```
 optional arguments:
   -h, --help            show this help message and exit
   --any                 Plot independent of classification (default: False)
@@ -48,6 +48,7 @@ optional arguments:
   --version             verbose option (default: False)
 
 WARNING: Not all options may be supported
+```
 
 examples
 
