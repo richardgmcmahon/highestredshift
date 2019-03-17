@@ -4,20 +4,26 @@
 # 20170823: References updated based on Stark+2016, ARAA
 # "As of 2016, there are five spectroscopically confirmed GRBs at z>5.9"
 #
-# Useful review
+# References are in quotes so that , are not parsed in csv readers
+#
+# Useful reviews or recent papers as a check
 # Salvaterra (2015JHEAp...7...35S)
 # Stark, 2016, ARAA
+# Tanvir et al, 2018, 2018ApJ...865..107T
+#
 #
 # could include photoz cases?
-# 2011.0, 9.4, PhZ, GRB 090429B, Cucchiara+2011
 # 2013.0, 8.5, SpZ, GRB 120923A
 # 
 # Secure confirmed by spectroscopy
-Year, Redshift, Name, Reference
+Year, Redshift, Name, Reference, BibCode, Notes
 1997.0, 0.00, GRB, VanParadijs+1997
 1998.2, 1.00, GRB, Metzger+1998
-1998.6, 3.40, GRB, Kulkarni+1998
-2000.0, 4.50, GRB 000131, Andersen+2000
-2006.0, 6.295, GRB 050904, Kawai+2006 (J_AB=17.5)
-2008.7, 6.733, GRB 080913, Greiner+2009
-2009.4, 8.23, GRB 090423, Salvaterra+2009; Tanvir+2009
+1998.6, 3.40, GRB 971214, "Kulkarni et al, 1998", "1998Natur.393...35K"
+2000.0, 4.50, GRB 000131, "Andersen+2000"
+2006.0, 6.295, GRB 050904, "Kawai+2006 (J_AB=17.5)"
+2008.7, 6.733, GRB 080913, "Greiner+2009"
+# 2018, 7.8, GRB GRB 120923A, "Tanvir et al, 2018", "2018ApJ...865..107T"
+# 2018, 7.9, GRB 100905A, "Bolmer et al, 2018"
+2009.4, 8.23, GRB 090423, "Salvaterra+2009; Tanvir+2009"
+#PhotoZ: 2011, 9.4, GRB 090429B, "Cucchiara et al, 2011", 2011ApJ...736....7C"; "although this result could be as low as z=7 if there is significant dust obscuration in the host"
