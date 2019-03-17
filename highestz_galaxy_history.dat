@@ -1,0 +1,44 @@
+#
+# Highest redshift galaxy compilation
+# check out the chapter in the Sandage chapter about Redshift for
+# earlier stuff
+# References are in quotes to allow for "," in csv format file
+# History 
+# 20050901: first created Richard McMahon
+# 20060415: added the Kodeira reference 
+#
+# 20170101: checked against Stark ARAA
+# 20180823: added in some z>7 SpZ that are no highest reshifts known
+#
+Year, Redshift, Technique, Name, Reference
+1956,   0.200, O, CL 0855+0321, Humason+1956AJ.....61...97H
+1960,   0.4614, R, 3C 295, Minkowski+1960ApJ...132..908M
+1975,   0.469, R, 3C 411, 
+1976,   0.752, R, , 
+1979,   0.840, R, , 
+1982,   1.131, R, , 
+1983,   1.206, R, ,
+1984,   1.82,  R, ,
+1988,   3.39,  R, ,
+1990,   3.80,  R, 4C 41.17, Chambers+1990ApJ...363...21C
+1994,   4.25,  R, 8C 1435+635, Lacy+1994MNRAS.271..504L
+#1996    4.41,  R, Rawlings+1996, 
+1996,   4.55,  O:NB, Hu+McMahon+1996Natur.382..231H
+1997,   4.92,  O, Franx+1997ApJ...486L..75F
+#1999,   5.19, R, van Breugel+1999
+1998,   5.34,  O, Dey+1998ApJ...498L..93D
+1998,   5.64,  O:NB, Hu+Cowie+McMahon+1998ApJ...502L..99H
+#1998,   5.60,  O, Weymann+1998ApJ...505L..95W
+#2018,   5.72, R, Saxena+2018MNRAS.480.2733S
+1999,   5.74,  O:NB, Hu+McMahon+1999ApJ...522L...9H
+2002,   6.558, O:NB, Hu+Cowie+McMahon+2002
+2003,   6.578, O:NB, Kodeira+2003PASJ...55L..17K
+2005,   6.597, O:NB, Tanaguchi+2005PASJ...57..165T
+2006,   6.96,  O:NB, Iye+2006Natur.443..186I
+#2011,  7.008, O, Vanzella+2011 (HST+CANDELS+KECK+MOSFIRE)
+#2012,  7.045, O, Schenker+2012
+2012,   7.215, O, Shibuya+2012
+2013,   7.508, O, Finkelstein+2013
+2015,   7.73,  O, Oesch+2015
+2016,   8.683, O, Zitrin+2015, 2015ApJ...810L..12Z
+2018,   9.110, O:GLx10, MACS1149-JD1, Hashimoto+2018Natur.557..392H

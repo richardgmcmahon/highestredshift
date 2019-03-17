@@ -1,0 +1,67 @@
+#
+#   see 1967ARA&A...5..399B, E.M. Burbidge review
+#       1969ARA&A...7..527S, Schmidt review
+# 
+Year, Redshift, Technique, Name, Reference
+1963.0, 0.16,R, 3C273, "Schmidt 1963; Hazard et al"
+1963.5, 0.37,R,3C48, ""
+1964.0, 0.545,R,3C147, ""
+1965.0, 2.012,R, 3C 9, "Schmidt_1965ApJ...141.1295S"
+1967,2.223,R, PKS 0237-23, Arp.Bolton.Kinman.1967
+1968,2.358,R, 4C 25.5, Schmidt; Olsen
+1968,2.38,R, Burbidge
+1970,2.877,R, Lynds; Wills
+1973,3.41,R, OH471, Carswell; Strittmatter
+1973,3.53,R, OQ172, Wampler; Robinson; Baldwin; Burbidge; Nature
+1982,3.78,R, PKS2000-330
+1986,3.803,O, Hazard; McMahon; Sargent
+1987,4.01,O, Warren etal,
+1988.0,4.10,O, Hazard; McMahon+1988
+1988.5,4.43,O, Warren_etal_1988
+1989,4.73,O, Schneider_Schmidt_Gunn
+1991,4.897,O, CCD+NB PC, SSG
+1999,5.00, O;MC,     SDSS     ,  Fan_eta;
+2000,5.80, O;MC,     SDSS J1044, Fan_etal
+2001,6.28, O;MC,     SDSS J1030, Fan_etal
+2003,6.43, O;MC,     SDSS J1148, Fan_etal
+#
+#
+# radio selected
+# DATE, zed, S5Ghz(Jy), Name, 
+1963, 0.16, R, 3C273,    Schmidt 1963; Hazard et al
+1963.5, 0.37, R, ID ,3C48
+1964, 0.545, R, ID ,3C147
+1965, 2.012, R, 3C 9, Schmidt_1965ApJ...141.1295S
+1967, 2.223, R, PKS 0237-23, Arp.Bolton.Kinman.1967
+1968, 2.358, R, 4c 25.5, Schmidt; Olsen
+1968, 2.38,  R, Burbidge
+1970, 2.877, R, Lynds; Wills
+1973, 3.41,  R, OH471, Carswell; Strittmatter
+1973, 3.53,  R, OQ172, Wampler; Robinson; Baldwin; Burbidge; Nature
+1982, 3.78,  R, PKS2000-330
+1995, 4.30, 0.282, GB B1508+5714, Hook.McMahon etal.1995
+1998, 4.72, 0.259, GB B1428+4217, Hook and McMahon.1998
+2004, 5.47, 0.103, GB J0906+6930, Romani+2004ApJ...610L...9R;
+# 09 06 30.7, +69 30 31
+2018, ,,,
+#
+# Optically selected quasars
+1964,0.50,O, Bodge starting 
+1965,1.00,O, Sandage.1965
+1967,2.06,O, Lynds,
+1976,3.10,O, OP, Osmer+Smith
+1977,3.25,O, OP, Osmer+Smith
+1983,3.61,O, MC, Shanks
+1985,3.67,O, OP, Hazard+McMahon
+1986,3.82,O, UKST, Hazard+McMahon
+1987,4.01,O, UKST+APM,
+1988.0,4.11,O, UKST,
+1988.5,4.43,O, UKST+APM,
+1989,4.73,O, PC,
+1991,4.897,O, PC,
+1999,5.00,0, SDSS
+2000,5.80,O, SDSS, ''
+2001,6.20,O, SDSS, ''
+2003,6.43,O, SDSS, Fan+2003
+2011,7.08,IR, UKIDSS, Morlock+2011
+2017,7.50,IR, UKIDSS, Banados+2017
