@@ -1,3 +1,13 @@
+
+Examples publications using this data are:
+
+https://www.nature.com/articles/443128a
+
+https://swift.gsfc.nasa.gov/results/releases/images/recordzs/
+
+https://www.nature.com/articles/4611221a
+
+
 Current spectroscopically confirmed 'record' holders:
 ```
 Galaxy: z=9.110, MACS1149-JD1, Hashimoto et al, 2018Natur.557..392H
