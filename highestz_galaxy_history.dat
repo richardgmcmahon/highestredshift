@@ -35,8 +35,8 @@ Year, Redshift, Technique, Name, Reference
 1998,   5.64,  O:NB, Hu+Cowie+McMahon+1998ApJ...502L..99H
 #1998,   5.60,  O, Weymann+1998ApJ...505L..95W
 #2018,   5.72, R, Saxena+2018MNRAS.480.2733S
-1999,   5.74,  O:NB, Hu+McMahon+1999ApJ...522L...9H
-2002,   6.558, O:NB, Hu+Cowie+McMahon+2002
+1999,   5.74,  O:NB, "Hu, McMahon, Cowie, 1999ApJ...522L...9H"
+2002,   6.558, O:NB, "Hu, Cowie, McMahon, et al, 2002ApJ...568L..75H"
 2003,   6.578, O:NB, Kodeira+2003PASJ...55L..17K
 2005,   6.597, O:NB, Tanaguchi+2005PASJ...57..165T
 2006,   6.96,  O:NB, Iye+2006Natur.443..186I
