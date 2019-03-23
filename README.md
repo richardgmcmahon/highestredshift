@@ -24,6 +24,9 @@ GRB: z=3.40; Kulkarni et al, 1998Natur.393…35K
 
 Example plot: https://github.com/richardgmcmahon/highestredshift/blob/master/results/highestz_history_2020_20190317.png
 
+
+![alt text](https://github.com/richardgmcmahon/highestredshift/blob/master/results/highestz_history_2020_20190317.png)
+
 Producing redshift history plots for different epochs
 
 Your can select the historical year and the year range to plot
