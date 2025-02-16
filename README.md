@@ -12,7 +12,7 @@ Historical compilation of highest redshift objects: quasars, galaxies, gamma-ray
 - [Examples](#examples)
 
 
-#
+#Publications 
 Examples publications using this data are:
 
 https://www.nature.com/articles/443128a
