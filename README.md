@@ -16,9 +16,11 @@ The highest redshifts at the end of 2018 were:
 
 Galaxy: z=9.110, MACS1149-JD1, Hashimoto et al, 2018Natur.557..392H https://ui.adsabs.harvard.edu/abs/2018Natur.557..392H
 
-Quasar (QSO): z=7.51, ULASJ1342+0928, Banados et al, 2018Natur.553..473B
+Quasar (QSO): z=7.51, ULASJ1342+0928, Banados et al, 2018Natur.553..473B https://ui.adsabs.harvard.edu/abs/2018Natur.553..473B
 
-Gamma Ray Burst (GRB): z=8.23, GRB 090423, Salvaterra et al, 2009Natur.461.1258S; Tanvir et al., 2009Natur.461.1254T"
+Gamma Ray Burst (GRB): z=8.23, GRB 090423,  
+Tanvir et al., 2009Natur.461.1254T
+Salvaterra et al, 2009Natur.461.1258S 
 
 
 The highest redshifts at the end of 1999 were:
