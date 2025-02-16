@@ -10,7 +10,15 @@ https://www.nature.com/articles/4611221a
 
 Current (16 February 2025) spectroscopically confirmed 'record' holders:
 
-Galaxy: z=14.32 (‑0.20+0.08), JADES-GS-z14-0 : https://ui.adsabs.harvard.edu/abs/2024Natur.633..318C
+Galaxy: z=14.32 (‑0.20+0.08), JADES-GS-z14-0: https://ui.adsabs.harvard.edu/abs/2024Natur.633..318C
+
+Quasar: z=7.64; J031343.84–180636.4:  Wang F, Yang J, Fan X et al. 2021b. Ap. J. Lett., 907, L1
+
+
+2011
+
+Quasar: J112001.48+064124.30	7.0848, Mortlock et al, 2011,  Mortlock DJ, Warren SJ, Venemans BP et al. 2011. Nature 474, 
+
 
 The highest redshifts at the end of 2018 were:
 
