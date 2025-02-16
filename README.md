@@ -1,4 +1,14 @@
 
+## Table of Contents
+- [Publications](#publications)
+- [Current Record Holders](#current-record-holders)
+- [Historical Records](#historical-records)
+- [Example Plot](#example-plot)
+- [Producing Redshift History Plots](#producing-redshift-history-plots)
+- [Examples](#examples)
+
+
+#
 Examples publications using this data are:
 
 https://www.nature.com/articles/443128a
