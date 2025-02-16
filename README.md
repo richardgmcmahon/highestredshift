@@ -1,3 +1,7 @@
+# Highest Redshift Objects
+
+Historical compilation of highest redshift objects: quasars, galaxies, gamma-ray bursts.
+
 
 ## Table of Contents
 - [Publications](#publications)
