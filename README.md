@@ -9,6 +9,8 @@ https://www.nature.com/articles/4611221a
 
 
 Current spectroscopically confirmed 'record' holders:
+
+The highest redshifts at the end of 2018 were:
 ```
 Galaxy: z=9.110, MACS1149-JD1, Hashimoto et al, 2018Natur.557..392H
 Quasar: z=7.51, ULASJ1342+0928, Banados et al, 2018Natur.553..473B
