@@ -22,11 +22,13 @@ Gamma Ray Burst (GRB): z=8.23, GRB 090423, Salvaterra et al, 2009Natur.461.1258S
 
 
 The highest redshifts at the end of 1999 were:
-```
+
 Galaxy: z=5.74; Hu, McMahon, Cowie, 1999ApJ...522L…9H 
+
 Quasar: z=5.00; Fan et al, 1999AJ....118….1F
+
 GRB: z=3.40; Kulkarni et al, 1998Natur.393…35K
-```
+
 
 Example plot: https://github.com/richardgmcmahon/highestredshift/blob/master/results/highestz_history_2020_20190317.png
 
