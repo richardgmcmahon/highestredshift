@@ -14,6 +14,8 @@ Galaxy: z=14.32 (‑0.20+0.08), JADES-GS-z14-0: https://ui.adsabs.harvard.edu/ab
 
 Quasar: z=7.64; J031343.84–180636.4:  Wang F, Yang J, Fan X et al. 2021b. Ap. J. Lett., 907, L1
 
+GRB: no change since 2009
+
 
 2011
 
