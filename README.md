@@ -12,7 +12,7 @@ Current (16 February 2025) spectroscopically confirmed 'record' holders:
 
 Galaxy: z=14.32 (‑0.20+0.08), JADES-GS-z14-0: https://ui.adsabs.harvard.edu/abs/2024Natur.633..318C
 
-Quasar: z=7.64; J031343.84–180636.4:  Wang F, Yang J, Fan X et al. 2021b. Ap. J. Lett., 907, L1
+Quasar: z=7.64; J031343.84–180636.4:  Wang F, Yang J, Fan X et al. 2021b. Ap. J. Lett., 907, L1 https://ui.adsabs.harvard.edu/abs/2021ApJ...907L...1W
 
 GRB: no change since 2009
 
