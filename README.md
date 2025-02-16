@@ -12,7 +12,7 @@ Current spectroscopically confirmed 'record' holders:
 
 The highest redshifts at the end of 2018 were:
 ```
-Galaxy: z=9.110, MACS1149-JD1, Hashimoto et al, 2018Natur.557..392H
+Galaxy: z=9.110, MACS1149-JD1, Hashimoto et al, 2018Natur.557..392H https://ui.adsabs.harvard.edu/abs/2018Natur.557..392H
 Quasar: z=7.51, ULASJ1342+0928, Banados et al, 2018Natur.553..473B
 Gamma Ray Burst (GRB): z=8.23, GRB 090423, Salvaterra et al, 2009Natur.461.1258S; Tanvir et al., 2009Natur.461.1254T"
 ```
