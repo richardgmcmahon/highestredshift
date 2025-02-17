@@ -8,7 +8,7 @@ Historical compilation of highest redshift objects: quasars, galaxies, gamma-ray
 - [Current Record Holders](#current-record-holders)
 - [Historical Records](#previous-historical-records)
 - [Example Plot](#example-plot)
-- [Producing Redshift History Plots](#producing-redshift-history-plots)
+- [Producing Redshift History Plots](#How-to-use-this-code-to-produce-redshift-history-plots)
 - [Examples](#example-plot)
 
 
