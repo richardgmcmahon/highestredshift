@@ -34,6 +34,8 @@ GRB: no change since 2009
 
 ## Previous Historical Records
 
+Galaxy: https://ui.adsabs.harvard.edu/abs/2023NatAs...7..622C
+
 The highest redshifts at the end of 2018 were:
 
 Galaxy: z=9.110, MACS1149-JD1, Hashimoto et al, 2018Natur.557..392H https://ui.adsabs.harvard.edu/abs/2018Natur.557..392H
@@ -43,7 +45,7 @@ Quasar (QSO): z=7.51, ULASJ1342+0928, Banados et al, 2018Natur.553..473B https:/
 
 **2011
 
-Quasar: J112001.48+064124.30	7.0848, Mortlock et al, 2011,  Mortlock DJ, Warren SJ, Venemans BP et al. 2011. Nature 474, 
+Quasar: ULAS J1120+0641 z=7.085; McMahon with Mortlock et al, 2011,  Mortlock DJ, Warren SJ, Venemans BP et al. 2011. Nature 474 
 Gamma Ray Burst (GRB): z=8.23, GRB 090423,  
 Tanvir et al., 2009Natur.461.1254T
 Salvaterra et al, 2009Natur.461.1258S 
