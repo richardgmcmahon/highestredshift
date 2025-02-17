@@ -21,7 +21,7 @@ https://swift.gsfc.nasa.gov/results/releases/images/recordzs/
 
 https://www.nature.com/articles/4611221a
 
-
+## Current Record Holders 
 Current (16 February 2025) spectroscopically confirmed 'record' holders:
 
 Galaxy: z=14.32 (‑0.20+0.08), JADES-GS-z14-0: https://ui.adsabs.harvard.edu/abs/2024Natur.633..318C
@@ -32,7 +32,7 @@ GRB: no change since 2009
 
 
 
-
+## Previous Historical Records
 
 The highest redshifts at the end of 2018 were:
 
