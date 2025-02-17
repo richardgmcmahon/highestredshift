@@ -64,7 +64,7 @@ Example plot: https://github.com/richardgmcmahon/highestredshift/blob/master/res
 
 ![alt text](https://github.com/richardgmcmahon/highestredshift/blob/master/results/highestz_history_2020_20190317.png)
 
-## How to use this code to produce Redshift History plots
+## How to use this code to produce redshift history plots
 
 Producing redshift history plots for different epochs
 
@@ -103,6 +103,7 @@ WARNING: Not all options may be supported
 ```
 
 
+## How to use the circa 2005 IDL code to produce redshift history plots
 examples
 
 python plot_history.py 
