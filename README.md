@@ -57,11 +57,14 @@ Quasar: z=5.00; Fan et al, 1999AJ....118….1F
 
 GRB: z=3.40; Kulkarni et al, 1998Natur.393…35K
 
+## Example Plot
 
 Example plot: https://github.com/richardgmcmahon/highestredshift/blob/master/results/highestz_history_2020_20190317.png
 
 
 ![alt text](https://github.com/richardgmcmahon/highestredshift/blob/master/results/highestz_history_2020_20190317.png)
+
+## How to use this code to produce Redshift History plots
 
 Producing redshift history plots for different epochs
 
