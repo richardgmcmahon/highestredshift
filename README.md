@@ -22,7 +22,7 @@ https://swift.gsfc.nasa.gov/results/releases/images/recordzs/
 https://www.nature.com/articles/4611221a
 
 ## Current Record Holders 
-With the launch of JWST on 25th December, 2021 the 
+With the launch of JWST on 25th December, 2021 observations at high redshift is being transformed as expected. This list will contain spectroscopically confirmed redshifts and notes that even spectrcoscopic redshifts can be wrong. Also, claims are often reported in social media before papers appear or are published. A list of examples of "inglourious redshifts" is under consideration,
 
 Current (16 February 2025) spectroscopically confirmed 'record' holders:
 
