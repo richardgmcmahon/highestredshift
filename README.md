@@ -36,7 +36,7 @@ GRB: no change since 2009
 
 ## Previous Historical Records
 
-Galaxy: Curtis-Lake et al, 2023; https://ui.adsabs.harvard.edu/abs/2023NatAs...7..622C Robertson et al, 2023 [two papers in same issue of Nature]
+Galaxy: Curtis-Lake et al, 2023; https://ui.adsabs.harvard.edu/abs/2023NatAs...7..622C, Robertson et al, 2023 https://ui.adsabs.harvard.edu/abs/2023NatAs...7..611R [two papers in same issue of Nature]
 
 
 
